@@ -1,0 +1,14 @@
+board=[[" "," "," "],[" "," "," "],[" "," "," "]]
+def showb(board):
+    print(board[2])
+    print(board[1])
+    print(board[0])
+def place(board, place):
+    ycoord=int(input("y coord"))-1
+    xcoord=int(input("x coord"))-1
+    board[ycoord][xcoord]=place
+while True:
+    showb(board)
+    place(board, "X")
+    showb(board)
+    place(board, "O")
