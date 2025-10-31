@@ -5,3 +5,5 @@ lets people know if they win
 1.1.1
 fixed checkwin
 added startup screen
+1.2.0
+made singleplayer work
