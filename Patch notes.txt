@@ -1,0 +1,7 @@
+1.0.1
+Stops people playing on each other
+1.1.0
+lets people know if they win
+1.1.1
+fixed checkwin
+added startup screen
